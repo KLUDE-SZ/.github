@@ -1,41 +1,65 @@
-# Shenzhen Ubiquitous Data Enabling Key Laboratory
+# 🔬 Shenzhen Key Laboratory of Ubiquitous Data Enabling
 
-## About Us
+<div align="center">
 
-The **Shenzhen Ubiquitous Data Enabling Key Laboratory** (深圳市泛在数据赋能重点实验室) is a municipal-level key laboratory located in Shenzhen, Guangdong Province, China. Established in 2023 with a funding of 5 million RMB from the Shenzhen Science, Technology and Innovation Commission, the laboratory is affiliated with the **Institute of Data and Information** at **Tsinghua Shenzhen International Graduate School (SIGS)**.
+[![Funding](https://img.shields.io/badge/Funding-5M_RMB-blue.svg)](https://www.sz.gov.cn/)
+[![Established](https://img.shields.io/badge/Established-2023-green.svg)](https://www.sigs.tsinghua.edu.cn/)
+[![Institution](https://img.shields.io/badge/Institution-Tsinghua_SIGS-purple.svg)](https://www.sigs.tsinghua.edu.cn/)
 
-## Research Focus
+**深圳市泛在数据赋能重点实验室**
 
-Our laboratory focuses on cutting-edge research in:
+*Empowering Innovation Through Ubiquitous Data*
 
-- **Big Data & AI**: Data-driven intelligence and artificial intelligence applications
-- **Internet of Things (IoT)**: Ubiquitous sensing and connectivity
-- **Embedded Intelligent Systems**: Smart embedded computing solutions
-- **Information Technology**: Electronics, communications, computer science, and control engineering
-
-We are committed to addressing national strategic needs and regional economic development through data empowerment, with a particular focus on the electronic information and intelligent manufacturing industries in the Guangdong-Hong Kong-Macao Greater Bay Area.
-
-## Institutional Background
-
-The Institute of Data and Information was founded in February 2023, integrating resources from:
-- Tsinghua-Berkeley Shenzhen Institute (TBSI)
-- School of Information Science and Technology
-- School of Advanced Manufacturing
-- School of Logistics and Transportation
-
-The institute emphasizes interdisciplinary collaboration with a focus on "intelligence" and "systematic" approaches to new engineering education.
-
-## Collaborations
-
-We collaborate with leading institutions including:
-- Pengcheng Laboratory (鹏城实验室)
-- Department of Electronic Engineering, Tsinghua University
-- Tsinghua National Laboratory for Information Science and Technology
-
-## Contact
-
-For more information, please visit the official website of [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/).
+</div>
 
 ---
 
-*This laboratory is one of 23 key laboratories funded by Shenzhen, dedicated to enhancing innovation capabilities in data science and information technology.*
+## 📖 About Us
+
+The **Shenzhen Key Laboratory of Ubiquitous Data Enabling** (深圳市泛在数据赋能重点实验室) is a cutting-edge municipal-level key laboratory located in Shenzhen, Guangdong Province, China. 
+
+🎯 **Established:** 2023  
+💰 **Funding:** 5 million RMB from the Shenzhen Science, Technology and Innovation Commission  
+🏛️ **Affiliation:** Institute of Data and Information, Tsinghua Shenzhen International Graduate School (SIGS)
+
+---
+
+## 🔍 Research Focus
+
+Our laboratory is at the forefront of data-driven research, focusing on:
+
+### 🤖 **Big Data & AI**
+- Data-driven intelligence
+- Artificial intelligence applications
+- Machine learning algorithms
+
+### 🌐 **Internet of Things (IoT)**
+- Ubiquitous sensing technologies
+- Smart connectivity solutions
+- Edge computing
+
+### 💻 **Embedded Intelligent Systems**
+- Smart embedded computing
+- Real-time processing
+- Hardware-software co-design
+
+### 📡 **Information Technology**
+- Electronics & Communications
+- Computer Science & Technology
+- Control Engineering
+
+---
+
+## 🎯 Mission
+
+We are committed to addressing **national strategic needs** and **regional economic development** through data empowerment, with particular focus on:
+
+- 📊 Electronic information industry
+- 🏭 Intelligent manufacturing
+- 🌉 Guangdong-Hong Kong-Macao Greater Bay Area development
+
+---
+
+## 🏢 Institutional Background
+
+The **Institute of Data and Information** was founded in February 2023, integrating premier resources from:
