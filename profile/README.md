@@ -35,10 +35,10 @@ Our laboratory is at the forefront of data-driven research, focusing on:
 - Smart connectivity solutions
 - Edge computing
 
-### 💻 **Embodied Intelligence**
-- Smart embedded computing
-- Real-time processing
-- Hardware-software co-design
+### 🤖 **Embodied Intelligence**
+- Robotic perception and interaction
+- Intelligent control and decision-making
+- Reinforcement learning and simulation
 
 ### 📡 **Information Technology**
 - Electronics & Communications
