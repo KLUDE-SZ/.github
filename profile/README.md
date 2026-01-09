@@ -1,4 +1,4 @@
-# 🔬 Shenzhen Key Laboratory of Ubiquitous Data Enabling
+# 🔬 Shenzhen Key Laboratory of Ubiquitous Data EnabLing -- Theory and Applications
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 **深圳市泛在数据赋能重点实验室**
 
-*Empowering Innovation Through Ubiquitous Data*
+*Shenzhen Key Laboratory of Ubiquitous Data EnabLing -- Theory and Applications*
 
 </div>
 
@@ -14,11 +14,10 @@
 
 ## 📖 About Us
 
-The **Shenzhen Key Laboratory of Ubiquitous Data Enabling** (深圳市泛在数据赋能重点实验室) is a cutting-edge municipal-level key laboratory located in Shenzhen, Guangdong Province, China. 
+The **Shenzhen Key Laboratory of Ubiquitous Data EnabLing** (深圳市泛在数据赋能重点实验室) is a cutting-edge municipal-level key laboratory located in Shenzhen, Guangdong Province, China. 
 
 🎯 **Established:** 2023  
-💰 **Funding:** 5 million RMB from the Shenzhen Science, Technology and Innovation Commission  
-🏛️ **Affiliation:** Institute of Data and Information, Tsinghua Shenzhen International Graduate School (SIGS)
+🏛️ **Affiliation:** Tsinghua Shenzhen International Graduate School (SIGS), Tsinghua University
 
 ---
 
@@ -36,7 +35,7 @@ Our laboratory is at the forefront of data-driven research, focusing on:
 - Smart connectivity solutions
 - Edge computing
 
-### 💻 **Embedded Intelligent Systems**
+### 💻 **Embodied Intelligence**
 - Smart embedded computing
 - Real-time processing
 - Hardware-software co-design
