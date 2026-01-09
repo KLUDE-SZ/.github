@@ -26,7 +26,7 @@ The **Shenzhen Key Laboratory of Ubiquitous Data EnabLing** (深圳市泛在数�
 Our laboratory is at the forefront of data-driven research, focusing on:
 
 ### 🤖 **Big Data & AI**
-- Data-driven intelligence
+- Physially informed Intelligence
 - Artificial intelligence applications
 - Machine learning algorithms
 
@@ -37,8 +37,8 @@ Our laboratory is at the forefront of data-driven research, focusing on:
 
 ### 🤖 **Embodied Intelligence**
 - Robotic perception and interaction
-- Intelligent control and decision-making
-- Reinforcement learning and simulation
+- VLA, Intelligent control and decision-making
+- World Model, Reinforcement learning and simulation
 
 ### 📡 **Information Technology**
 - Electronics & Communications
